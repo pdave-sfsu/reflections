@@ -11,6 +11,9 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  The staging area is a middle man to make sure that a user only commits what they want and not the entire working directory.
+  For example, if I changed file1 and file2, but they are both separate logical changes, then I should commit them separately. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
