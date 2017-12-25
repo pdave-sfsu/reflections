@@ -8,14 +8,15 @@ How is the staging area different from the working directory and the repository?
   A staging directory provides more control per commit to a user.
   If I just want to commit one file, a staging area is the middle-man before a commit.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
 
   The staging area is a middle man to make sure that a user only commits what they want and not the entire working directory.
-  For example, if I changed file1 and file2, but they are both separate logical changes, then I should commit them separately. 
+  For example, if I changed file1 and file2, but they are both separate logical changes, then I should commit them separately.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+  Branches let you experiment with different features without compromising the master/production branch.
+  They also allow users to work on the same project together.
 
 How do the diagrams help you visualize the branch structure?
 
