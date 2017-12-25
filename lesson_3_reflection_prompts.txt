@@ -25,7 +25,7 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
     The only solution I can think of is people would work on a file between a certain time and no one else would touch it.
     It would be easier that way since there would be no merge conflicts, but the software development process would be slow.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Working on separate branches lets users experiment new features without breaking the production branch.
+    It also allows multiple people to work simultaneously from different locations. 
