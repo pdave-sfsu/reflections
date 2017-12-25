@@ -28,5 +28,8 @@ What is the result of merging two branches together? Why do we represent it in t
   When you merge two branches together, you combine their commits (changes).
   The action of combining the two branches itself makes a commit and changes the label to the new commit.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+  Git's automatic merging makes it easier for programmers to merge different branches.
+  Manual merging is necessary since git cannot merge everything.
+  When two branches work on the same lines of code, the user needs to make the decision of which version to keep.
