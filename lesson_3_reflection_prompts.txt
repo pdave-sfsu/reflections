@@ -19,10 +19,11 @@ What is the benefit of having a copy of the last known state of the remote store
     This will let a user know where their local repository lies in relation to the remote repository.
     It also lets the user fetch the remote before they merge it their local branch.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    Collaborating without Git or GitHub would be a nightmare.
+    The only solution I can think of is people would work on a file between a certain time and no one else would touch it.
+    It would be easier that way since there would be no merge conflicts, but the software development process would be slow.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
